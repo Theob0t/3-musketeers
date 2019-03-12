@@ -1,5 +1,6 @@
 # Cash
 
+<img src="imgcash.jpg" >
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -42,3 +43,14 @@ Becomes
 ```javascript
 const DEFAULT_TO_CURRENCIES = ['USD', 'EUR', 'CAD', 'BZD','MXN'];
 ```
+
+## Buitl With 
+
+* [Java Script](https://www.javascript.com/) - Java Script 
+* [npm](https://www.npmjs.com/) - Node js 
+* [JSDoc](http://usejsdoc.org/)- JSDoc format
+
+
+## Licence
+
+[Uncopyrighted](http://zenhabits.net/uncopyright/)
