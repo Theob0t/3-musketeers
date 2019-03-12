@@ -6,8 +6,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Description](#-description)
+- :speech_balloon: [Description](#-description) 💬
 - [How to use it](#-how-use-it)
+- [Build With](#-build-with)
+- [Licence](#-licence)
 
 ## Description
 
@@ -44,7 +46,7 @@ Becomes
 const DEFAULT_TO_CURRENCIES = ['USD', 'EUR', 'CAD', 'BZD','MXN'];
 ```
 
-## Buitl With 
+## Build With 
 
 * [Java Script](https://www.javascript.com/) - Java Script 
 * [npm](https://www.npmjs.com/) - Node js 
