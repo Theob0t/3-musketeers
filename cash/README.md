@@ -7,9 +7,9 @@
 **Table of Contents**
 
 - :speech_balloon: [Description](#-description) 💬
-- [How to use it](#-how-use-it)
-- [Build With](#-build-with)
-- [Licence](#-licence)
+- ❓ [How to use it](#-how-use-it) ❓
+- 🔧 [Build With](#-build-with) 🔧
+- 🔑 [Licence](#-licence) 🔑
 
 ## Description
 
